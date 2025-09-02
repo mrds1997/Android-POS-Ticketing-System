@@ -14,7 +14,6 @@ The devices were designed to support various ticketing and payment operations in
 - **Public Transport Integration:** Seamlessly integrated with metro stations and suburban trains in Tehran.
 
 ### 🛠️ Technical Details:
-- **Platform:** Native Android development  
 - **Programming Language:** Java  
 - **Hardware:** PAX A910, CardLan POS terminals  
 - **Domain:** Public transportation ticketing and validation systems  
